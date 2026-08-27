@@ -1,0 +1,65 @@
+[
+  {
+    "name": "LeadUnity",
+    "repo": "Eram85/lead_unity",
+    "logo": "logo.png",
+    "description": "Leading University's defense setup",
+    "tags": [
+      "Flutter",
+      "Dart",
+      "NextJS"
+    ]
+  },
+  {
+    "name": "OnePick",
+    "repo": "Eram85/one_pick",
+    "logo": "op.png",
+    "description": "An One Piece trivia app to find your character",
+    "tags": [
+      "Flutter",
+      "Dart"
+    ]
+  },
+  {
+    "name": "Chessy",
+    "repo": "Eram85/chessy",
+    "logo": "chess.png",
+    "description": "Chess timer app for all types of variations",
+    "tags": [
+      "Flutter",
+      "Dart"
+    ]
+  },
+  {
+    "name": "Claster",
+    "repo": "Eram85/Claster",
+    "logo": "claster.png",
+    "description": "A class scheduling app for teachers which is used to track routines",
+    "tags": [
+      "Flutter",
+      "Dart",
+      "Firebase"
+    ]
+  },
+  {
+    "name": "OneTELE",
+    "repo": "Eram85/OneTELE---Liilab-Teleprompter",
+    "logo": "onetele.png",
+    "description": "A custom teleprompter for liilab's recording studio",
+    "tags": [
+      "Flutter",
+      "Dart"
+    ]
+  },
+  {
+    "name": "Career Logic AI",
+    "repo": "Eram85/CareerLogic-AI",
+    "logo": "cl.png",
+    "description": "An AI Powered CV management and assesment system for aspiring career builders",
+    "tags": [
+      "Flutter",
+      "Dart",
+      "Groq"
+    ]
+  }
+]
