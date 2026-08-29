@@ -1,65 +1,73 @@
 [
   {
-    "name": "LeadUnity",
-    "repo": "Eram85/lead_unity",
-    "logo": "logo.png",
-    "description": "Leading University's defense setup",
-    "tags": [
-      "Flutter",
-      "Dart",
-      "NextJS"
-    ]
+    "name": "Sylhet House Price App",
+    "repo": "Eram85/sylhet-house-price-app",
+    "logo": "sylhet-house-price-app.png",
+    "description": "ML-powered house price predictor trained on real Sylhet real estate data, served through a Python app.",
+    "tags": ["Python", "Machine Learning", "GBM"]
   },
   {
-    "name": "OnePick",
-    "repo": "Eram85/one_pick",
-    "logo": "op.png",
-    "description": "An One Piece trivia app to find your character",
-    "tags": [
-      "Flutter",
-      "Dart"
-    ]
+    "name": "Car Website",
+    "repo": "Eram85/Website_I_Built",
+    "path": "car website",
+    "logo": "car-website.png",
+    "description": "A car showcase website built with HTML, CSS and JavaScript.",
+    "tags": ["HTML", "CSS", "JavaScript"]
   },
   {
-    "name": "Chessy",
-    "repo": "Eram85/chessy",
-    "logo": "chess.png",
-    "description": "Chess timer app for all types of variations",
-    "tags": [
-      "Flutter",
-      "Dart"
-    ]
+    "name": "Explore Earth",
+    "repo": "Eram85/Website_I_Built",
+    "path": "explore earth",
+    "logo": "explore-earth.png",
+    "description": "An interactive site for exploring facts and places around the Earth.",
+    "tags": ["HTML", "CSS", "JavaScript"]
   },
   {
-    "name": "Claster",
-    "repo": "Eram85/Claster",
-    "logo": "claster.png",
-    "description": "A class scheduling app for teachers which is used to track routines",
-    "tags": [
-      "Flutter",
-      "Dart",
-      "Firebase"
-    ]
+    "name": "Real Estate Platform",
+    "repo": "Eram85/Website_I_Built",
+    "path": "real-estate platform",
+    "logo": "real-estate-platform.png",
+    "description": "A web platform for browsing and listing real estate properties.",
+    "tags": ["HTML", "CSS", "JavaScript"]
   },
   {
-    "name": "OneTELE",
-    "repo": "Eram85/OneTELE---Liilab-Teleprompter",
-    "logo": "onetele.png",
-    "description": "A custom teleprompter for liilab's recording studio",
-    "tags": [
-      "Flutter",
-      "Dart"
-    ]
+    "name": "Bubble Shooter",
+    "repo": "Eram85/2D-Games",
+    "path": "bubbleshooter",
+    "logo": "bubbleshooter.png",
+    "description": "A classic 2D bubble-popping arcade game.",
+    "tags": ["Game Dev", "2D"]
   },
   {
-    "name": "Career Logic AI",
-    "repo": "Eram85/CareerLogic-AI",
-    "logo": "cl.png",
-    "description": "An AI Powered CV management and assesment system for aspiring career builders",
-    "tags": [
-      "Flutter",
-      "Dart",
-      "Groq"
-    ]
+    "name": "Mini Wordle",
+    "repo": "Eram85/2D-Games",
+    "path": "miniwordle",
+    "logo": "miniwordle.png",
+    "description": "A compact word-guessing puzzle game inspired by Wordle.",
+    "tags": ["Game Dev", "Puzzle"]
+  },
+  {
+    "name": "Space Shooter",
+    "repo": "Eram85/2D-Games",
+    "path": "spaceshooter",
+    "logo": "spaceshooter.png",
+    "description": "A 2D arcade space shooter with waves of enemies.",
+    "tags": ["Game Dev", "2D"]
+  },
+  {
+    "name": "Dead Sector",
+    "repo": "Eram85/3D-Games",
+    "path": "dead sector",
+    "logo": "dead-sector.png",
+    "description": "A 3D game project set in a derelict, hostile sector.",
+    "tags": ["Game Dev", "3D"]
+  },
+  {
+    "name": "Hotel Oasis Manager",
+    "repo": "Eram85/3D-Games",
+    "path": "hotel management game",
+    "logo": "hotel-management.png",
+    "description": "A hotel management simulation game built for the browser.",
+    "tags": ["Game Dev", "Simulation"]
   }
 ]
